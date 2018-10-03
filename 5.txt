@@ -1,6 +1,2 @@
-<<<<<<< HEAD
 hello
 day la nhanh master
-=======
-day la nhanh test re nhanh
->>>>>>> testReNhanh
