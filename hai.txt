@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 day la nhanh master
+=======
+day la file vi nhanh test re nhanh
+>>>>>>> testReNhanh
