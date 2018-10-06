@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 
 rebasing of master
 
+=======
+rebasing of experiment lan 2
+>>>>>>> rebasing of experiment lan 2
